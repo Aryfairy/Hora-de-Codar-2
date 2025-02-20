@@ -17,7 +17,7 @@ programa {
     se (valor > 0 ) {
       escreva("\nO valor digitado é positivo!")
     }
-    se (valor < 0 ) {
+    senao {
       escreva("\nO valor digitado é negativo!")
     }
   }
